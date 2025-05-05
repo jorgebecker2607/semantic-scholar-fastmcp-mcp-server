@@ -1,3 +1,4 @@
 # CONTRIBUTING.md
 
 Notes and usage details for semantic-scholar-fastmcp-mcp-server.
+- add a note about the defaults
