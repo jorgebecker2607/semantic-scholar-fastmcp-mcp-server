@@ -7,3 +7,4 @@ Notes and usage details for semantic-scholar-fastmcp-mcp-server.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
