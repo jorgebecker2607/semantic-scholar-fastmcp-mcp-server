@@ -18,3 +18,4 @@ Notes and usage details for semantic-scholar-fastmcp-mcp-server.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- link the usage section
